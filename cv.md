@@ -1,10 +1,15 @@
-# Bogdan Selenginskiy, 1991 ![cv portrait](/img/cv-portrait.jpg)
+# Bogdan Selenginskiy, 1991
 Junior Front-End Developer
+
+
+![cv portrait](/img/cv-portrait.jpg)
+
 
 ## contact details
 * **email:** bseleng@gmaill.com
 * **telegram:** [@darthsel](https://t.me/darthsel)
 * **whatsapp:** [+79614794893](https://wa.me/+79614794893)
+
 ## summary
 a private English tutor, who decided to become a developer.
 As *[Batman][1]* said:
