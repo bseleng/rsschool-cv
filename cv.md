@@ -23,6 +23,37 @@ I've worked as a developer since **October 2020.** Our team has no experienced F
 - [x]  make [SMART][2] for salary and qualification level 
 - [ ]  get things done before 30 :rocket: 
 
+### code samples
+
+###### React
+```javascript
+/**
+ * reads an url and returns the part after the last slash (API key)
+ *
+ * @returns {string} API key
+ */
+export const codeApi = () => {
+    const currentLocation = window.location.href;
+    return currentLocation.split("/").pop();
+}
+```
+
+###### Yii2
+```php
+    /**
+     * returns actual number of items in the cart
+     * @return string number of items in the cart
+     */
+    protected function getCartProductCount()
+    {
+        if(!$this->orderArr) {
+            return 0;
+        } else {
+            return array_sum($this->orderArr);
+        }
+    }
+```
+
 ### skills
 | Technology    | Self-assessed level |
 | ------------- |:------------------:| 
@@ -37,7 +68,6 @@ I've worked as a developer since **October 2020.** Our team has no experienced F
 | HTTP          | :white_check_mark: :black_square_button: :black_square_button:
 | Git           | :white_check_mark: :black_square_button: :black_square_button:
 | CSS Frameworks| :white_check_mark: :black_square_button: :black_square_button:
-
 
 
 ### education objectives
