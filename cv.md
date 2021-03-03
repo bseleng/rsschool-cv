@@ -16,6 +16,29 @@ As *[Batman][1]* said:
  
 ### extended summary
 I've worked as a developer since **October 2020.** Our team has no experienced Front-End engineers and I am not keen enough to grow by myself. Neither me nor my company is satisfied with my progress, hence it is of my primary concern to figure out a way to change the tide. 
+   
+### career objectives
+- [x]  get the first paid job as a developer 
+- [x]  pick a specialization 
+- [x]  make [SMART][2] for salary and qualification level 
+- [ ]  get things done before 30 :rocket: 
+
+### skills
+| Technology    | Self-assessed level |
+| ------------- |:------------------:| 
+| HTML          | :white_check_mark: :white_check_mark: :black_square_button:
+| CSS           | :white_check_mark: :white_check_mark: :black_square_button:
+| JS            | :white_check_mark: :white_check_mark: :black_square_button:
+| React         | :white_check_mark: :black_square_button: :black_square_button:
+| Next.js       | :black_square_button: :black_square_button: :black_square_button:
+| React Native  | :black_square_button: :black_square_button: :black_square_button:
+| TypeScript    | :black_square_button: :black_square_button: :black_square_button:
+| CSS Preprocessors | :black_square_button: :black_square_button: :black_square_button:
+| HTTP          | :white_check_mark: :black_square_button: :black_square_button:
+| Git           | :white_check_mark: :black_square_button: :black_square_button:
+| CSS Frameworks| :white_check_mark: :black_square_button: :black_square_button:
+
+
 
 ### education objectives
 - [x]  graduate in a field you like (translation, 2014)
@@ -26,13 +49,11 @@ I've worked as a developer since **October 2020.** Our team has no experienced F
 - [ ]  get a Ph.D. (N/A)
 - [x]  drop out a doctorate (economics, 2019)
 
-       
-### career objectives
-- [x]  get the first paid job as a developer 
-- [x]  pick a specialization 
-- [x]  make [SMART][2] for salary and qualification level 
-- [ ]  get things done :rocket: 
-
+### human languages
+- English - C1
+- German - B2
+- Russian - mother tongue
+  
 
 [1]: https://en.wikipedia.org/wiki/Batman
 [2]: https://en.wikipedia.org/wiki/SMART_criteria
