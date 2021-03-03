@@ -1,9 +1,5 @@
-# Bogdan Selenginskiy, 1991
+# Bogdan Selenginskiy, 1991 ![cv portrait](/img/cv-portrait.jpg)
 Junior Front-End Developer
-
-
-![cv portrait](/img/cv-portrait.jpg)
-
 
 ## contact details
 * **email:** bseleng@gmaill.com
