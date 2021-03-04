@@ -55,6 +55,8 @@ export const codeApi = () => {
     }
 ```
 
+---
+
 ### skills
 
 | Technology    | Self-assessed level |
@@ -71,6 +73,7 @@ export const codeApi = () => {
 | Git           | 1/10 |
 | CSS Frameworks| 0/10 |
 
+---
 
 ### education objectives
 * [x]  graduate in a field you like (translation, 2014)
