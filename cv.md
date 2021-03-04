@@ -72,13 +72,13 @@ export const codeApi = () => {
 
 
 ### education objectives
-- [x]  graduate in a field you like (translation, 2014)
-- [x]  spend at least one year abroad (Germany, 2011 - 2012) 
-- [x]  get a foreign diploma (Switzerland, Glion Institute of Higher Education, 2015) 
-- [ ]  graduate in a field you need for work (N/A)
-- [x]  get expelled from a masters program (teaching & psychology, 2018)
-- [ ]  get a Ph.D. (N/A)
-- [x]  drop out a doctorate (economics, 2019)
+* [x]  graduate in a field you like (translation, 2014)
+* [x]  spend at least one year abroad (Germany, 2011 - 2012) 
+* [x]  get a foreign diploma (Switzerland, Glion Institute of Higher Education, 2015) 
+* [ ]  graduate in a field you need for work (N/A)
+* [x]  get expelled from a masters program (teaching & psychology, 2018)
+* [ ]  get a Ph.D. (N/A)
+* [x]  drop out a doctorate (economics, 2019)
 
 ### human languages
 - English - C1
