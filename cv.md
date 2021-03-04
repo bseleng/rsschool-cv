@@ -19,10 +19,10 @@ As *[Batman][1]* said:
 I've worked as a developer since **October 2020.** Our team has no experienced Front-End engineers and I am not keen enough to grow by myself. Neither me nor my company is satisfied with my progress, hence it is of my primary concern to figure out a way to change the tide. 
    
 ### career objectives
-- [x]  get the first paid job as a developer 
-- [x]  pick a specialization 
-- [x]  make [SMART][2] for salary and qualification level 
-- [ ]  get things done before 30 :rocket: 
+* [x]  get the first paid job as a developer 
+* [x]  pick a specialization 
+* [x]  make [SMART][2] for salary and qualification level 
+* [ ]  get things done before 30
 
 ### code samples
 
@@ -59,17 +59,17 @@ export const codeApi = () => {
 
 | Technology    | Self-assessed level |
 | ------------- |:------------------:| 
-| HTML          | :white_check_mark: :white_check_mark: :black_square_button:|
-| CSS           | :white_check_mark: :white_check_mark: :black_square_button:|
-| JS            | :white_check_mark: :white_check_mark: :black_square_button:|
-| React         | :white_check_mark: :black_square_button: :black_square_button:|
-| Next.js       | :black_square_button: :black_square_button: :black_square_button:|
-| React Native  | :black_square_button: :black_square_button: :black_square_button:|
-| TypeScript    | :black_square_button: :black_square_button: :black_square_button:|
-| CSS Preprocessors | :black_square_button: :black_square_button: :black_square_button:|
-| HTTP          | :white_check_mark: :black_square_button: :black_square_button:|
-| Git           | :white_check_mark: :black_square_button: :black_square_button:|
-| CSS Frameworks| :white_check_mark: :black_square_button: :black_square_button:|
+| HTML          | 3/10 |
+| CSS           | 4/10 |
+| JS            | 4/10 |
+| React         | 2/10 |
+| Next.js       | 0/10 |
+| React Native  | 1/10 |
+| TypeScript    | 1/10 |
+| CSS Preprocessors | 0/10 |
+| HTTP          | 1/10 |
+| Git           | 1/10 |
+| CSS Frameworks| 0/10 |
 
 
 ### education objectives
