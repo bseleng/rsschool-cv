@@ -56,6 +56,7 @@ export const codeApi = () => {
 ```
 
 ### skills
+
 | Technology    | Self-assessed level |
 | ------------- |:------------------:| 
 | HTML          | :white_check_mark: :white_check_mark: :black_square_button:|
