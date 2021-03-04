@@ -58,17 +58,17 @@ export const codeApi = () => {
 ### skills
 | Technology    | Self-assessed level |
 | ------------- |:------------------:| 
-| HTML          | :white_check_mark: :white_check_mark: :black_square_button:
-| CSS           | :white_check_mark: :white_check_mark: :black_square_button:
-| JS            | :white_check_mark: :white_check_mark: :black_square_button:
-| React         | :white_check_mark: :black_square_button: :black_square_button:
-| Next.js       | :black_square_button: :black_square_button: :black_square_button:
-| React Native  | :black_square_button: :black_square_button: :black_square_button:
-| TypeScript    | :black_square_button: :black_square_button: :black_square_button:
-| CSS Preprocessors | :black_square_button: :black_square_button: :black_square_button:
-| HTTP          | :white_check_mark: :black_square_button: :black_square_button:
-| Git           | :white_check_mark: :black_square_button: :black_square_button:
-| CSS Frameworks| :white_check_mark: :black_square_button: :black_square_button:
+| HTML          | :white_check_mark: :white_check_mark: :black_square_button:|
+| CSS           | :white_check_mark: :white_check_mark: :black_square_button:|
+| JS            | :white_check_mark: :white_check_mark: :black_square_button:|
+| React         | :white_check_mark: :black_square_button: :black_square_button:|
+| Next.js       | :black_square_button: :black_square_button: :black_square_button:|
+| React Native  | :black_square_button: :black_square_button: :black_square_button:|
+| TypeScript    | :black_square_button: :black_square_button: :black_square_button:|
+| CSS Preprocessors | :black_square_button: :black_square_button: :black_square_button:|
+| HTTP          | :white_check_mark: :black_square_button: :black_square_button:|
+| Git           | :white_check_mark: :black_square_button: :black_square_button:|
+| CSS Frameworks| :white_check_mark: :black_square_button: :black_square_button:|
 
 
 ### education objectives
