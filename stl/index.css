@@ -1,0 +1,15 @@
+@import "./main/headers.css";
+@import "./section/section.css";
+
+html {
+  display: flex;
+  box-sizing: border-box;
+}
+
+main {
+  width: 866px;
+  position: absolute;
+  right: 0;
+  padding-top: 130px;
+}
+}
