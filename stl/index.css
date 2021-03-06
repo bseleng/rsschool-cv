@@ -1,5 +1,5 @@
-@import "./main/headers.css";
-@import "./section/section.css";
+@import "./main/section/section.css";
+@import "./main/header/headings.css";
 
 html {
   display: flex;
@@ -7,9 +7,16 @@ html {
 }
 
 main {
-  width: 866px;
+  width: 770px;
   position: absolute;
+  padding-left: 96px;
   right: 0;
-  padding-top: 130px;
+  margin: 0;
 }
+
+#WORKING_AT {
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
 }
