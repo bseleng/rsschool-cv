@@ -21,6 +21,7 @@
 .section-content {
   display: flex;
   padding-top: 8px;
+  margin-bottom: 30px;
 }
 
 .year-place {
