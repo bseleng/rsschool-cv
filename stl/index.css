@@ -12,10 +12,6 @@ html {
   color: #383838;
 }
 
-.body-wrapper {
-  background-color: #11c5475e;
-  min-width: 90px;
-}
 main {
   max-width: 770px;
   position: absolute;
