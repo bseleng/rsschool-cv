@@ -1,7 +1,9 @@
 @import "./main/section/section.css";
 @import "./main/header/headings.css";
+@import "./aside/aside.css";
 
 html {
+  height: 100%;
   max-width: 1020px;
   display: flex;
   box-sizing: border-box;
@@ -10,12 +12,26 @@ html {
   color: #383838;
 }
 
+.body-wrapper {
+  background-color: #11c5475e;
+  min-width: 90px;
+}
 main {
   max-width: 770px;
   position: absolute;
   padding-left: 96px;
   right: 0;
   margin: 0;
+}
+
+aside {
+  width: 518px;
+  margin-left: 128px;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  background-color: #282828;
+  color: white;
 }
 
 mark {
@@ -28,7 +44,7 @@ em {
   font-style: normal;
 }
 
-#WORKING_AT {
+#WORKING_AT * {
   border-top: 1px solid red;
   border-bottom: 1px solid red;
   border-left: 1px solid red;
