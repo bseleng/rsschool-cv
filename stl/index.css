@@ -10,15 +10,22 @@ html {
   color: #383838;
 }
 
-body {
-}
-
 main {
   max-width: 770px;
   position: absolute;
   padding-left: 96px;
   right: 0;
   margin: 0;
+}
+
+mark {
+  background-color: #18181828;
+}
+
+em {
+  color: #18181828;
+  text-decoration: dotted;
+  font-style: normal;
 }
 
 #WORKING_AT {
