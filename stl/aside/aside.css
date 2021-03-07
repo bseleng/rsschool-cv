@@ -51,8 +51,9 @@
   font-size: 28px;
 }
 
-.aside-icon-text p:last-of-type {
+.aside-icon-text :last-child {
   font-size: 18px;
+  font-style: normal;
 }
 
 .aside-skill {
